@@ -7,7 +7,7 @@ Posicionando Elementos com FlexBox e CSS
 Flex Container
 Propriedades relacionadas
 
- - display
+ - Display
  - flex-direction
  - flex-wrap
  - flex-flow
