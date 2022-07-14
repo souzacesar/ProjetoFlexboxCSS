@@ -52,3 +52,7 @@ Os eixos
   wrap-reverse
   wrap: permite a quebra de linha assim que um dos flex itens não puder mais ser compactados, porém na direção contrária da linha, acima.
 
+FLEX-FLOW
+É un atalho para as propriedades flex-direction e flex-wrap
+Porém seu uso não é tão comum, visto que, quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap
+
