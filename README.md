@@ -106,3 +106,8 @@ Tipos de alinhamentos
 */space-between: cria um espaçamento igual entre os elementos.
 */space-around: os espaçamentos do meio são duas vezes maior que o inicial e final.
 
+Flex-grow
+
+Define a proporcionalidade de crescimento dos itensn respeitando o tamanho de seus conteúdos internos.
+OBS: não irá funcionar caso tenhamos adicionado justify-content ao nosso flex container.
+
