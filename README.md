@@ -128,3 +128,6 @@ Valores possíveis
 Flex-shrink
 É a propriedade que estabelece a capacidade de redução ou compressão do tamanho de um item.
 
+Estrutura básica e prática Order
+esta propriedade lida diretamente com a ordenação dos itens
+
