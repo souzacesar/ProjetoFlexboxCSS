@@ -131,3 +131,14 @@ Flex-shrink
 Estrutura básica e prática Order
 esta propriedade lida diretamente com a ordenação dos itens
 
+Estrutura básica e prática com align-self
+É a propriedade que estabelece o alinhamento de modo individual sobre um determinado item.
+
+Valores possíveis
+
+- auto: valor padrão, irá respeitar a definição de align-items do container
+- flex-start: ao inicio do container
+- flex-end: ao final do container
+- center: relativo ao centro de acordo com o eixo
+- stretch: ocupa todo os espaço relativo
+- baseline: utiliza a linha base da tipografia
