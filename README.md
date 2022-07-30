@@ -142,3 +142,6 @@ Valores possíveis
 - center: relativo ao centro de acordo com o eixo
 - stretch: ocupa todo os espaço relativo
 - baseline: utiliza a linha base da tipografia
+
+Flex projeto
+Criação de uma landing Page utilizando os conceitos que aprendemos até agora.
